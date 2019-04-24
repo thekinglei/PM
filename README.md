@@ -24,3 +24,4 @@ Web服务器：Apache、Nginx、IIS
 数据库：MySQL、Oracle、PostgreSQL等关系型数据库；cassandra、mongoDB、redis等NoSQL数据库  
 项目管理（PM）：Jira、Asana、Taiga、Trello、Basecamp、Pivotal Tracker  
 
+参考：https://www.jianshu.com/p/2b5553c4d7d8
